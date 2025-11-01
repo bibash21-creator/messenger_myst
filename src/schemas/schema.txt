@@ -1,0 +1,8 @@
+A Schema 🧩 is a structured blueprint or framework that defines 
+how data is organized, stored, and related within a database 🗃️
+
+
+
+
+Zod validation is a TypeScript-first library that defines and validates 
+data schemas to ensure inputs match expected types and formats.
