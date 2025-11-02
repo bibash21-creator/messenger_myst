@@ -1,0 +1,1 @@
+`bcryptjs` is a JavaScript library that provides password hashing and verification using the bcrypt algorithm, implemented in pure JS without native dependencies.

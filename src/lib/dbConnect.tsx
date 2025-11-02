@@ -32,7 +32,7 @@ type ConnectionObject = {
 const connection: ConnectionObject= {}
 
 // Data base connection function where i dont care whatever the data will come in promise
-async function dbconnect(): Promise<void>{
+export async function dbconnect(): Promise<void>{
     if (connection.isConnected){
         console.log("Already connected to database");
         return
